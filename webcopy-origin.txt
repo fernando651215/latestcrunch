@@ -1,0 +1,100 @@
+Uri: http://db.onlinewebfonts.com/c/1c0f6618f877568764787163e8f22a1c?family=SF+Espresso+Shack
+File Name: C:\Downloaded Web Sites\latestcrunch.in\c\1c0f6618f877568764787163e8f22a1c
+Content Type: text/css
+
+Uri: http://db.onlinewebfonts.com/t/1c0f6618f877568764787163e8f22a1c.eot
+File Name: C:\Downloaded Web Sites\latestcrunch.in\t\1c0f6618f877568764787163e8f22a1c.eot
+Content Type: vnd.ms-fontobject
+
+Uri: http://db.onlinewebfonts.com/t/1c0f6618f877568764787163e8f22a1c.eot?
+File Name: C:\Downloaded Web Sites\latestcrunch.in\t\1c0f6618f877568764787163e8f22a1c-1.eot
+Content Type: vnd.ms-fontobject
+
+Uri: http://db.onlinewebfonts.com/t/1c0f6618f877568764787163e8f22a1c.svg
+File Name: C:\Downloaded Web Sites\latestcrunch.in\t\1c0f6618f877568764787163e8f22a1c.svg
+Content Type: image/svg+xml
+
+Uri: http://db.onlinewebfonts.com/t/1c0f6618f877568764787163e8f22a1c.ttf
+File Name: C:\Downloaded Web Sites\latestcrunch.in\t\1c0f6618f877568764787163e8f22a1c.ttf
+Content Type: application/octet-stream
+
+Uri: http://db.onlinewebfonts.com/t/1c0f6618f877568764787163e8f22a1c.woff
+File Name: C:\Downloaded Web Sites\latestcrunch.in\t\1c0f6618f877568764787163e8f22a1c.woff
+Content Type: application/x-font-woff
+
+Uri: http://db.onlinewebfonts.com/t/1c0f6618f877568764787163e8f22a1c.woff2
+File Name: C:\Downloaded Web Sites\latestcrunch.in\t\1c0f6618f877568764787163e8f22a1c.woff2
+Content Type: application/x-font-woff
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\latestcrunch.in\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://latestcrunch.in/S1/?n=Fernando-Dueñas-Cacua
+File Name: C:\Downloaded Web Sites\latestcrunch.in\S1\index.htm
+Content Type: text/html
+
+Uri: https://latestcrunch.in/S1/img/1.png
+File Name: C:\Downloaded Web Sites\latestcrunch.in\S1\img\1.png
+Content Type: image/png
+
+Uri: https://latestcrunch.in/S1/img/2.png
+File Name: C:\Downloaded Web Sites\latestcrunch.in\S1\img\2.png
+Content Type: image/png
+
+Uri: https://latestcrunch.in/S1/img/2024-1.png
+File Name: C:\Downloaded Web Sites\latestcrunch.in\S1\img\2024-1.png
+Content Type: image/png
+
+Uri: https://latestcrunch.in/S1/img/3.png
+File Name: C:\Downloaded Web Sites\latestcrunch.in\S1\img\3.png
+Content Type: image/png
+
+Uri: https://latestcrunch.in/S1/img/4.png
+File Name: C:\Downloaded Web Sites\latestcrunch.in\S1\img\4.png
+Content Type: image/png
+
+Uri: https://latestcrunch.in/S1/img/5.png
+File Name: C:\Downloaded Web Sites\latestcrunch.in\S1\img\5.png
+Content Type: image/png
+
+Uri: https://latestcrunch.in/S1/img/899.gif
+File Name: C:\Downloaded Web Sites\latestcrunch.in\S1\img\899.gif
+Content Type: image/gif
+
+Uri: https://latestcrunch.in/S1/img/9uc.png
+File Name: C:\Downloaded Web Sites\latestcrunch.in\S1\img\9uc.png
+Content Type: image/png
+
+Uri: https://latestcrunch.in/S1/img/a1.jpg
+File Name: C:\Downloaded Web Sites\latestcrunch.in\S1\img\a1.jpg
+Content Type: image/jpeg
+
+Uri: https://latestcrunch.in/S1/img/a2.jpg
+File Name: C:\Downloaded Web Sites\latestcrunch.in\S1\img\a2.jpg
+Content Type: image/jpeg
+
+Uri: https://latestcrunch.in/S1/img/CH7.png
+File Name: C:\Downloaded Web Sites\latestcrunch.in\S1\img\CH7.png
+Content Type: image/png
+
+Uri: https://latestcrunch.in/S1/img/spn.png
+File Name: C:\Downloaded Web Sites\latestcrunch.in\S1\img\spn.png
+Content Type: image/png
+
+Uri: https://latestcrunch.in/S1/jingle-bells.mp3
+File Name: C:\Downloaded Web Sites\latestcrunch.in\S1\jingle-bells.mp3
+Content Type: audio/mpeg
+
+Uri: https://latestcrunch.in/S1/snowfall.css
+File Name: C:\Downloaded Web Sites\latestcrunch.in\S1\snowfall.css
+Content Type: text/css
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Downloaded Web Sites\latestcrunch.in\tag\js\f.txt
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-226686121-1
+File Name: C:\Downloaded Web Sites\latestcrunch.in\gtag\js
+Content Type: application/javascript
+
